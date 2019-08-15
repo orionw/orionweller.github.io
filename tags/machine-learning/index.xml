@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>ModelComparison - R Graphics Package</title>
+      <title>Model Comparison</title>
       <link>https://orionweller.github.io/project/model-comparison/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://orionweller.github.io/project/model-comparison/</guid>
-      <description>&lt;p&gt;Description coming soon&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;After taking a few Intro to Machine Learning type classes, I was annoyed with the class requirement to &amp;ldquo;test out a few models and compare them.&amp;rdquo;  What a repitive request!  I wasn&amp;rsquo;t learning anything by waiting for the code to run different models and then monotonously plotting those values in Excel or R for a class report.  I decided to create a package that would do all this for me.  Thus, &lt;code&gt;ModelComparison&lt;/code&gt; was born.  It takes in your dataset and runs the machine learning algorithms you specifiy.  It then takes those models and creates an attractive plot that compares those models on metrics of your choosing.  Hopefully this can help those who run into the same repitive task of just &amp;ldquo;running some models on your data.&amp;rdquo;&lt;/p&gt;
 </description>
     </item>
     
@@ -28,7 +28,12 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://orionweller.github.io/project/time-to-read/</guid>
-      <description>&lt;p&gt;Description coming soon&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;For my Data Science Capstone project, I worked with Adobe Analytics to improve the standard time-to-read model of 240 wpm.  This naive model doesn&amp;rsquo;t take any factors into account, other than the length of the article.  We conducted a statistical study on Mechanical Turk using fractional factorial design to gather data, then used machine learning techniques to improve upon the naive model.&lt;/p&gt;
+
+&lt;p&gt;Abstract:
+In order to help its Web Analytics clients create beter online written content, Adobe wanted to more acurately predict the average time-to-read for a wide range of written content. The industry-standard metrics,(such as time-on-page and the “standard” reading speed of 240 words per minute), do not reliably predict reading time for the various types of  online and written content available today.  We first used fractional factorial survey design to crowdsource data on Mechanical Turk and then created an improved 8-factor model that more accurately predicts time-to-read for various types of writen content.&lt;/p&gt;
+
+&lt;p&gt;Poster found here: link to come.&lt;/p&gt;
 </description>
     </item>
     

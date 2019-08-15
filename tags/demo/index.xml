@@ -18,7 +18,9 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://orionweller.github.io/project/byu-housing-android/</guid>
-      <description>&lt;p&gt;Description coming soon&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;For those of us who went to Brigham Young University, we&amp;rsquo;ve all seen the Student Housing Guide (link) that shows a table of information for approved campus housing.  There&amp;rsquo;s a lot of great data there, but unfortunately it&amp;rsquo;s presented in a terrible medium.  The booklet is 99 pages of ads for the 2 pages of useful information.  The data is squashed into a few tables of data that is hard to read, difficult to sort through, and impossible to visualize on a map.  I decided a better medium for the housing search would be a query-able app, complete with maps and sorting functionalities.  The app is available on the Google Play store as &amp;ldquo;BYU Housing Finder.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Note: the name of the app has changed to &amp;ldquo;Find BYU Housing.&amp;rdquo;  I offered this completed application to Brigham Young University press, who immediately met with me and said that I could be sued over copyright issues (they claimed the data in the Housing Guide was copyrighted.  I said that the apartment info I gathered was from online apartments and thus could not be copyrighted by them).  I was a little miffed, but since I like being a student here and don&amp;rsquo;t want any disciplinary issues I have not advertised the application and changed the name, at their request.  It turns out they get most of their money from the ads in the Housing Guide and if I made this app it would severly hurt their journalism program. So, that&amp;rsquo;s my story of trying to help out BYU.&lt;/p&gt;
 </description>
     </item>
     
@@ -28,7 +30,12 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://orionweller.github.io/project/time-to-read/</guid>
-      <description>&lt;p&gt;Description coming soon&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;For my Data Science Capstone project, I worked with Adobe Analytics to improve the standard time-to-read model of 240 wpm.  This naive model doesn&amp;rsquo;t take any factors into account, other than the length of the article.  We conducted a statistical study on Mechanical Turk using fractional factorial design to gather data, then used machine learning techniques to improve upon the naive model.&lt;/p&gt;
+
+&lt;p&gt;Abstract:
+In order to help its Web Analytics clients create beter online written content, Adobe wanted to more acurately predict the average time-to-read for a wide range of written content. The industry-standard metrics,(such as time-on-page and the “standard” reading speed of 240 words per minute), do not reliably predict reading time for the various types of  online and written content available today.  We first used fractional factorial survey design to crowdsource data on Mechanical Turk and then created an improved 8-factor model that more accurately predicts time-to-read for various types of writen content.&lt;/p&gt;
+
+&lt;p&gt;Poster found here: link to come.&lt;/p&gt;
 </description>
     </item>
     
