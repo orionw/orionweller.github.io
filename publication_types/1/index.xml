@@ -7,15 +7,15 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://orionweller.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Humor Detection: A Transformer gets the Last Laugh (emnlp2019)</title>
+      <title>Humor Detection: A Transformer gets the Last Laugh</title>
       <link>https://orionweller.github.io/publication/humordetection/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://orionweller.github.io/publication/humordetection/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
